@@ -8,28 +8,29 @@ Hier entwickeln, verwalten und veröffentlichen wir unsere Projekte, Tools und I
 
 ### 🚀 Unsere Projekte
 
+* **[Florian Feuerwehrmanagement](https://florian-management.de/)** – *Moderne Software- & Management-Lösungen für Feuerwehren.*
 * **[Oldcraften Networks](https://oldcraften.eu/)** – *Consulting · Tech · Administration rund um Minecraft.*  
-  Wir unterstützen andere Projekte bei Konzepten, technischem Setup, Server-Infrastruktur und laufender Administration.
-  * **Plattform & Tools:** [OC-Panel](https://panel.oldcraften.net) · [Cloud](https://cloud.oldcraften.net) · [Partner Login](https://partner.oldcraften.net)
-  * **Tech Stack:** Proxmox, Pterodactyl / Pelican, Mailcow, Custom Plugins & Textures, pfSense, Sophos, DDoS-Protection
+  Unterstützung bei Konzepten, technischem Setup, Server-Infrastruktur und laufender Administration (u. a. mit Proxmox, Pterodactyl / Pelican, Mailcow, pfSense & Sophos).
 
 ---
 
-### 👥 Leitung & Gründer
+### 👨‍💻 Über mich
 
-* **Florian** – Founder & Co-Inhaber von **LKR-Service** | Founder von [Oldcraften Networks](https://oldcraften.eu/)  
-  🌐 Management & Kontakt: [florian-management.de](https://florian-management.de/)
+**Florian**  
+* **Rolle:** Founder & Co-Inhaber von **LKR-Service** | Founder von [Oldcraften Networks](https://oldcraften.eu/)
+* **Qualifikation:** Fachinformatiker für Systemintegration
+* **Standort:** 📍 Unterallgäu, DE
+
+#### 🏆 Zertifizierungen
+* **Sophos Certified**  
+  [Zertifikat 1 ansehen](https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781683744035appoutputcertificate7hFRcNiej3.pngL6mi.webp) · [Zertifikat 2 ansehen](https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781679600389appoutputcertificateEHjb4Yeui8.pnggr3u.webp)
+* **KI League Certified**  
+  [Zertifikat ansehen](https://cf-us1.mindtickle.com/1375518056474348918/public-content/1781679587692appoutputcertificateD4hNoJuqO9.pngosuu.webp)
 
 ---
 
-### 🔗 Wichtige Links
+### 🔗 Links
 
+* **Florian Feuerwehrmanagement:** [florian-management.de](https://florian-management.de/)
 * **Oldcraften Networks:** [oldcraften.eu](https://oldcraften.eu/)
-* **Management:** [florian-management.de](https://florian-management.de/)
-* **GitHub (Oldcraften):** [github.com/oldcraften](https://github.com/oldcraften)
 
----
-
-### 🤝 Mitwirken & Support
-
-Du hast einen Bug gefunden, eine Idee für ein Feature oder Fragen zu unseren Projekten? Schau dir gerne unsere öffentlichen Repositories an, erstelle ein **Issue** oder reiche einen **Pull Request** ein!
