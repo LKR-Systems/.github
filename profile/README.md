@@ -1,12 +1,16 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/306906925?s=200&v=4" alt="LKR-Systems Logo" width="96" height="96" />
+  <p>
+    <img src="https://avatars.githubusercontent.com/u/306906925?s=200&v=4" alt="LKR-Systems Logo" width="120" height="120" />
+  </p>
 
   <!-- Typing-Header: helle Schrift im Dark Mode, dunkle im Light Mode -->
+  <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=F8FAFC&center=true&vCenter=true&width=750&lines=LKR-Systems;IT.+Infrastruktur.+Sicherheit.;Netzwerk+%C2%B7+Virtualisierung+%C2%B7+Hosting" />
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=750&lines=LKR-Systems;IT.+Infrastruktur.+Sicherheit.;Netzwerk+%C2%B7+Virtualisierung+%C2%B7+Hosting" alt="LKR-Systems – IT. Infrastruktur. Sicherheit." />
   </picture>
+  </p>
 
   <p>
     <picture><img src="https://img.shields.io/badge/Allg%C3%A4u-1E293B?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Standort: Allgäu" /></picture>
