@@ -1,21 +1,18 @@
 <div align="center">
 
   <p>
-    <img src="https://avatars.githubusercontent.com/u/306906925?s=200&v=4" alt="LKR-Systems Logo" width="120" height="120" />
-  </p>
-
-  <!-- Typing-Header: helle Schrift im Dark Mode, dunkle im Light Mode -->
-  <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=F8FAFC&center=true&vCenter=true&width=750&lines=LKR-Systems;IT.+Infrastruktur.+Sicherheit.;Netzwerk+%C2%B7+Virtualisierung+%C2%B7+Hosting" />
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=750&lines=LKR-Systems;IT.+Infrastruktur.+Sicherheit.;Netzwerk+%C2%B7+Virtualisierung+%C2%B7+Hosting" alt="LKR-Systems – IT. Infrastruktur. Sicherheit." />
-  </picture>
+    <img src="https://raw.githubusercontent.com/LKR-Systems/corporate-design/main/assets/LKR-Systems_Logo-Paket/01_Logo/SVG/LKR-Systems_farbig-fuer-hell.svg" alt="LKR-Systems – IT | Netzwerk | Software" width="1000" />
   </p>
 
   <p>
-    <picture><img src="https://img.shields.io/badge/Allg%C3%A4u-1E293B?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Standort: Allgäu" /></picture>
-    <picture><img src="https://img.shields.io/badge/Label-Eigene_Projekte-1E293B?style=flat-square&labelColor=0F172A" alt="Label für eigene Projekte" /></picture>
-    <picture><img src="https://img.shields.io/badge/Fokus-Infrastruktur_%26_Security-1E293B?style=flat-square&labelColor=0F172A" alt="Fokus: Infrastruktur & Security" /></picture>
+    <strong>IT. Infrastruktur. Sicherheit.</strong><br />
+    Netzwerk · Virtualisierung · Hosting
+  </p>
+
+  <p>
+    <picture><img src="https://img.shields.io/badge/Allg%C3%A4u-0D1320?style=flat-square&logo=googlemaps&logoColor=2F7CF6" alt="Standort: Allgäu" /></picture>
+    <picture><img src="https://img.shields.io/badge/Label-Eigene_Projekte-0D1320?style=flat-square&labelColor=2F7CF6" alt="Label für eigene Projekte" /></picture>
+    <picture><img src="https://img.shields.io/badge/Fokus-Infrastruktur_%26_Security-0D1320?style=flat-square&labelColor=2F7CF6" alt="Fokus: Infrastruktur & Security" /></picture>
   </p>
 
 </div>
@@ -116,5 +113,5 @@ Hier entstehen und laufen Plattformen, Infrastruktur und Tools – von der Konze
 ---
 
 <div align="center">
-  <sub>LKR-Systems · IT. Infrastruktur. Sicherheit.</sub>
+  <sub>LKR-Systems · IT. Infrastruktur. Sicherheit. · <a href="https://github.com/LKR-Systems/corporate-design">Corporate Design &amp; Logos</a></sub>
 </div>
